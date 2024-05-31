@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.c ": "c",
+        "errno.h": "c",
+        "sysctl.h": "c"
+    }
+}
